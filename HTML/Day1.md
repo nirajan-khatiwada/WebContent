@@ -1,4 +1,4 @@
-# HTML Workshop: Build Your First Website
+# HTML Workshop: Day 1
 
 ---
 
